@@ -37,6 +37,10 @@ def quick_sort(nums):
     # ]) + [array[0]] + quick_sort([item for item in array[1:] if item > array[0]])
 
 
+
+
+
+
 if __name__ == '__main__':
     # data_lst = [6,202,100,301,38,8,1]
     # print(merge_sort(data_lst))
